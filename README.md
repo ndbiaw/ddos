@@ -6,3 +6,8 @@ Tập lệnh này có thể hoạt động cả trên Windows lẫn Android (Ter
 pip install requirements.txt
 python ndbiaw.py
 ```
+# Important!!!
+This script is for educational purposes only. I am not responsible for the damage you cause while using this script!
+```
+Based on Pummel by HC 133
+```
