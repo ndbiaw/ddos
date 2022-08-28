@@ -3,7 +3,7 @@ Một tập lệnh Python để DDOS một trang web bằng phương pháp HTTP 
 # Cách Dùng:
 Tập lệnh này có thể hoạt động cả trên Windows lẫn Android (Termux), dưới đây là hướng dẫn:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 python ndbiaw.py
 ```
 # Important!!!
